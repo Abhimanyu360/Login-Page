@@ -1,3 +1,3 @@
-# Login-Page
+# Login-Page - EPAM Task
 
-Created a login page based on HTML AND CSS
+Created a login page based on HTML AND CSS.
